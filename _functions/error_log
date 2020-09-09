@@ -1,0 +1,2 @@
+[12-May-2018 14:05:28 UTC] PHP Notice:  Undefined index: formulario-success in /home/nuuyuce86lca/public_html/dev/astor/_functions/mail.php on line 35
+[12-May-2018 14:42:48 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.iad2.secureserver.net' did not match expected CN=`localhost' in /home/nuuyuce86lca/public_html/dev/astor/_functions/class.smtp.php on line 354
